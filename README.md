@@ -23,6 +23,7 @@
 ![Kotlin](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)&nbsp;
 
 **Bases de Datos:**
 
