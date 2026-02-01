@@ -8,7 +8,7 @@ Busco aplicar mi visión 360º del desarrollo de software para construir product
 * 📚 **Técnico Superior en DAM** (Finalizado)
 * 💻 **Estudiante de DAW** (En curso)
 * 🚀 Apasionado por el desarrollo híbrido y las arquitecturas limpias.
-* 📫 Puedes contactarme en [LinkedIn](https://linkedin.com/in/pau-mateo-150471262) o visitar mi [portafolio](https://p25005.github.io).
+* 📫 Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/pau-mateo-dev) o visitar mi [portafolio](https://p25005.github.io).
 
 ---
 
